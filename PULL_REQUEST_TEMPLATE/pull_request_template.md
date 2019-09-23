@@ -19,11 +19,10 @@ e.g.
 * Added topic
 -->
 
-## Issues
+## Jira Issue
 <!--
-Provide keywords to the Jira issues.
-
-e.g. closes PM-34
+Provide the key for the Jira issue this PR resolves.
 -->
+Closes PM-
 
 <!-- Please don't forget to request for reviews -->
