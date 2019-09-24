@@ -4,6 +4,12 @@ It is not required to follow this template perfectly, but we encourage you to th
 Before you publish a pull request think about the definition of done for the issue you are trying to resolve.
 -->
 
+<!--
+Provide the key for the Jira issue this PR resolves.
+-->
+
+Closes PM-
+
 ## Description
 <!--
 Provide a concise description on the feature/fix your pull request implements.
@@ -18,11 +24,5 @@ e.g.
 * Renamed variable
 * Added topic
 -->
-
-## Jira Issue
-<!--
-Provide the key for the Jira issue this PR resolves.
--->
-Closes PM-
 
 <!-- Please don't forget to request for reviews -->
