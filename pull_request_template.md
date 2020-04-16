@@ -25,4 +25,4 @@ e.g.
 * Added topic
 -->
 
-<!-- Reviews are automatically requested after the pull request has been created. -->
+<!-- Reviews are automatically requested after the pull request has been created. Only request for a review if you want a specific person to review your changes.-->
