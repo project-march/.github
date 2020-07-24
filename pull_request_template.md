@@ -25,4 +25,8 @@ e.g.
 * Added topic
 -->
 
+## Testing
+
+<!-- Provide additional information necessary for testing this PR. This includeds thing like branches in other repos, launch arguments or gait directories. In the case of a bug fix, provide the steps to reproduce to bug.-->
+
 <!-- Reviews are automatically requested after the pull request has been created. Only request for a review if you want a specific person to review your changes.-->
